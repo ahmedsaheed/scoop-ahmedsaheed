@@ -4,7 +4,7 @@
   "version": "1.0",
   "license": "Apache-2.0",
   "url": "https://github.com/ahmedsaheed/quranCLI/releases/download/v1.0.0/qurancli-1.0.zip",
-  "hash": "sha256:2ffe7e417b132b9d634a7840de21f973d29a80962df66b7adbe2dc00fa0a3ee1",
+  "hash": "sha256:572b1d3073e318876a95e1fa38cd539cae8490336a6c6f4c9ce20f6887cbc042",
   "extract_dir": "qurancli-1.0",
   "env_add_path": "bin",
   "suggest": {
